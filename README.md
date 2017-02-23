@@ -8,3 +8,8 @@ Versões das tecnologias:
 - Jenkins 2.45
 - git 1.9.1
 - Nano 2.2.6-1ubuntu1
+
+# Para construir a imagem e rodar o container:
+- Entrar no diretório do arquivo dockerfile
+- Executar o comando: docker build -t jenkins .
+- Executar o comando: docker run -p 8080:8080 --name jenkins jenkins
