@@ -13,3 +13,4 @@ Versões das tecnologias:
 - Entrar no diretório do arquivo dockerfile
 - Executar o comando: docker build -t jenkins .
 - Executar o comando: docker run -p 8080:8080 --name jenkins jenkins
+- Acessar o endereço http://localhost:8080 para linux ou docker for windows ou http://ip_vm_docker:8080 para macos ou toolbox docker no windows.
