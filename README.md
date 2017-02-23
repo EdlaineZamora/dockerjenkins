@@ -1,4 +1,4 @@
-# dockerjenkinsmaven
+# dockerjenkins
 Dockerfile para construir um container com ambiente Jenkins
 
 Versões das tecnologias:
